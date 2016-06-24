@@ -1,0 +1,1 @@
+echo "source(\"script.R\"); runit(\"$1\")" | R --vanilla
